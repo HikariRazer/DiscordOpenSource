@@ -1,4 +1,4 @@
-###Secure Gaming Platform .
+### Secure Gaming Platform .
 
 > Built with React, Redux, and Node.js.
 ---
